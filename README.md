@@ -68,7 +68,8 @@
 
 |Title | Stars | Technologies|
 |--|--|--|
-| [SOP Library](https://github.com/peytontolbert/SOPLibrary)|  <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/SOPLibrary?style=flat-square&labelColor=black"/>
+| [Swarms Cloud](https://github.com/The-Swarm-Corporation/swarms-cloud) | <img alt="Stars" src="https://img.shields.io/github/stars/The-Swarm-Corporation/swarms-cloud?style=flat-square&labelColor=black"/>
+| [SOP Library](https://github.com/peytontolbert/SOPLibrary) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/SOPLibrary?style=flat-square&labelColor=black"/>
 | [State Spaces 101](https://github.com/peytontolbert/statespace_101) |  <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/statespace_101?style=flat-square&labelColor=black"/>
 | [AgentSelector](https://github.com/peytontolbert/AgentSelector) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/AgentSelector?style=flat-square&labelColor=black"/>
 | [ECMS](https://github.com/peytontolbert/ECMSv2) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/ECMSv2?style=flat-square&labelColor=black"/>
