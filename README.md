@@ -68,7 +68,6 @@
 
 |Title | Stars | Technologies|
 |--|--|--|
-
 | [SOP Library](https://github.com/peytontolbert/SOPLibrary)|  <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/SOPLibrary?style=flat-square&labelColor=black"/>
 | [State Spaces 101](https://github.com/peytontolbert/statespace_101) |  <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/statespace_101?style=flat-square&labelColor=black"/>
 | [AgentSelector](https://github.com/peytontolbert/AgentSelector) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/AgentSelector?style=flat-square&labelColor=black"/>
