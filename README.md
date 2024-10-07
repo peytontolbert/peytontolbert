@@ -29,24 +29,24 @@
 <tr><th>Models</th><th>Training</th></tr>
 <tr><td>
 
-|Title | Stars | Technologies|
-|--|--|--|
-| [Griffin](https://github.com/peytontolbert/Griffin) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/Griffin?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch)|
-| [ConfidenceTransformer](https://github.com/peytontolbert/ConfidenceTransformer) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/ConfidenceTransformer?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch)|
-| [SingleArchitectureEnsemble](https://github.com/peytontolbert/SingleArchitectureEnsemble) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/SingleArchitectureEnsemble?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch)|
-| [OpenStrawberrySWE](https://github.com/peytontolbert/OpenStrawberry) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/OpenStrawberry?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy)|
-| [YOLOv5DeepQLearningModel](https://github.com/peytontolbert/yolov5DeepQLearning) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/yolov5DeepQLearning?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch)|
-| [SimpleVIT](https://github.com/peytontolbert/simpleViT) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/simpleViT?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch)|
-| [SimpleCLIP](https://github.com/peytontolbert/simple-CLIP) |  <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/simple-CLIP?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch)|
-| [TinyMoE](https://github.com/peytontolbert/tinylm) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/TinyLM?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch)|
-| [ConversationalTransformer](https://github.com/peytontolbert/ConversationalTransformer) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/ConversationalTransformer?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch)|
+|Title | Stars |
+|--|--|
+| [Griffin](https://github.com/peytontolbert/Griffin) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/Griffin?style=flat-square&labelColor=black"/>|
+| [ConfidenceTransformer](https://github.com/peytontolbert/ConfidenceTransformer) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/ConfidenceTransformer?style=flat-square&labelColor=black"/>|
+| [SingleArchitectureEnsemble](https://github.com/peytontolbert/SingleArchitectureEnsemble) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/SingleArchitectureEnsemble?style=flat-square&labelColor=black"/>|
+| [OpenStrawberrySWE](https://github.com/peytontolbert/OpenStrawberry) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/OpenStrawberry?style=flat-square&labelColor=black"/>|
+| [YOLOv5DeepQLearningModel](https://github.com/peytontolbert/yolov5DeepQLearning) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/yolov5DeepQLearning?style=flat-square&labelColor=black"/>|
+| [SimpleVIT](https://github.com/peytontolbert/simpleViT) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/simpleViT?style=flat-square&labelColor=black"/>|
+| [SimpleCLIP](https://github.com/peytontolbert/simple-CLIP) |  <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/simple-CLIP?style=flat-square&labelColor=black"/>|
+| [TinyMoE](https://github.com/peytontolbert/tinylm) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/TinyLM?style=flat-square&labelColor=black"/>|
+| [ConversationalTransformer](https://github.com/peytontolbert/ConversationalTransformer) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/ConversationalTransformer?style=flat-square&labelColor=black"/>|
 </td><td>
 
 |Title | Stars | Technologies|
 |--|--|--|
-| [SuperAlignment](https://github.com/peytontolbert/SuperAlignment) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/SuperAlignment?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch)|
-| [SinglePassTraining](https://github.com/peytontolbert/SinglePassTransformer) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/SinglePassTransformer?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch)|
-| [Drone Swarm Training](https://github.com/peytontolbert/swarm-drone-hrtx) |  <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/swarm-drone-hrtx?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch)|
+| [SuperAlignment](https://github.com/peytontolbert/SuperAlignment) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/SuperAlignment?style=flat-square&labelColor=black"/>|
+| [SinglePassTraining](https://github.com/peytontolbert/SinglePassTransformer) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/SinglePassTransformer?style=flat-square&labelColor=black"/>|
+| [Drone Swarm Training](https://github.com/peytontolbert/swarm-drone-hrtx) |  <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/swarm-drone-hrtx?style=flat-square&labelColor=black"/>|
 
 </td></tr> </table>
 
@@ -56,14 +56,14 @@
 
 |Title | Stars | Technologies|
 |--|--|--|
-| [Continous Learning Assistant](https://github.com/peytontolbert/continuous-learning-assistant) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/continuous-learning-assistant?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch)|
-| [Graph-Based Code Bot](https://github.com/peytontolbert/GCBMS) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/GCBMS?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch)|
-| [LLM-Coder](https://github.com/peytontolbert/llm-coder) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/llm-coder?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch)|
-| [GPT Dev](https://github.com/peytontolbert/GPTDev) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/GPTDev?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch)|
-| [Dynamic Agent](https://github.com/peytontolbert/DynamicAgent) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/GCBMS?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch)|
-| [LLM AgentZero Prototype](https://github.com/peytontolbert/LLMAgentSystem) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/LLMAgentSystem?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch)|
-| [Nimbus](https://github.com/peytontolbert/Nimbus) |  <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/Nimbus?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch)|
-| [Autonomous Society](https://github.com/peytontolbert/AutonomousDigitalSociety) |  <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/AutonomousDigitalSociety?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch)|
+| [Continous Learning Assistant](https://github.com/peytontolbert/continuous-learning-assistant) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/continuous-learning-assistant?style=flat-square&labelColor=black"/>|
+| [Graph-Based Code Bot](https://github.com/peytontolbert/GCBMS) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/GCBMS?style=flat-square&labelColor=black"/>|
+| [LLM-Coder](https://github.com/peytontolbert/llm-coder) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/llm-coder?style=flat-square&labelColor=black"/>|
+| [GPT Dev](https://github.com/peytontolbert/GPTDev) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/GPTDev?style=flat-square&labelColor=black"/>|
+| [Dynamic Agent](https://github.com/peytontolbert/DynamicAgent) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/GCBMS?style=flat-square&labelColor=black"/>|
+| [LLM AgentZero Prototype](https://github.com/peytontolbert/LLMAgentSystem) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/LLMAgentSystem?style=flat-square&labelColor=black"/>|
+| [Nimbus](https://github.com/peytontolbert/Nimbus) |  <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/Nimbus?style=flat-square&labelColor=black"/>|
+| [Autonomous Society](https://github.com/peytontolbert/AutonomousDigitalSociety) |  <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/AutonomousDigitalSociety?style=flat-square&labelColor=black"/>|
 </td><td>
 
 |Title | Stars | Technologies|
