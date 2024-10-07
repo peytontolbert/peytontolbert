@@ -42,8 +42,8 @@
 | [ConversationalTransformer](https://github.com/peytontolbert/ConversationalTransformer) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/ConversationalTransformer?style=flat-square&labelColor=black"/>|
 </td><td>
 
-|Title | Stars | Technologies|
-|--|--|--|
+|Title | Stars |
+|--|--|
 | [SuperAlignment](https://github.com/peytontolbert/SuperAlignment) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/SuperAlignment?style=flat-square&labelColor=black"/>|
 | [SinglePassTraining](https://github.com/peytontolbert/SinglePassTransformer) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/SinglePassTransformer?style=flat-square&labelColor=black"/>|
 | [Drone Swarm Training](https://github.com/peytontolbert/swarm-drone-hrtx) |  <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/swarm-drone-hrtx?style=flat-square&labelColor=black"/>|
@@ -54,8 +54,8 @@
 <tr><th>Bots </th><th>Misc Projects </th></tr>
 <tr><td>
 
-|Title | Stars | Technologies|
-|--|--|--|
+|Title | Stars |
+|--|--|
 | [Continous Learning Assistant](https://github.com/peytontolbert/continuous-learning-assistant) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/continuous-learning-assistant?style=flat-square&labelColor=black"/>|
 | [Graph-Based Code Bot](https://github.com/peytontolbert/GCBMS) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/GCBMS?style=flat-square&labelColor=black"/>|
 | [LLM-Coder](https://github.com/peytontolbert/llm-coder) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/llm-coder?style=flat-square&labelColor=black"/>|
@@ -66,8 +66,8 @@
 | [Autonomous Society](https://github.com/peytontolbert/AutonomousDigitalSociety) |  <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/AutonomousDigitalSociety?style=flat-square&labelColor=black"/>|
 </td><td>
 
-|Title | Stars | Technologies|
-|--|--|--|
+|Title | Stars |
+|--|--|
 | [Swarms Cloud](https://github.com/The-Swarm-Corporation/swarms-cloud) | <img alt="Stars" src="https://img.shields.io/github/stars/The-Swarm-Corporation/swarms-cloud?style=flat-square&labelColor=black"/>
 | [Weights Transfer](https://github.com/peytontolbert/TransformerWeightsTransfer) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/TransformerWeightsTransfer?style=flat-square&labelColor=black"/>
 | [SOP Library](https://github.com/peytontolbert/SOPLibrary) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/SOPLibrary?style=flat-square&labelColor=black"/>
