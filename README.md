@@ -70,12 +70,12 @@
 |--|--|
 | [Swarms Cloud](https://github.com/The-Swarm-Corporation/swarms-cloud) | <img alt="Stars" src="https://img.shields.io/github/stars/The-Swarm-Corporation/swarms-cloud?style=flat-square&labelColor=black"/>
 | [Weights Transfer](https://github.com/peytontolbert/TransformerWeightsTransfer) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/TransformerWeightsTransfer?style=flat-square&labelColor=black"/>
-| [FN-Call Finetuned Model](https://huggingface.co/AgoraX/Lumixion-e1-70k-fncall-qlora) | HuggingFace|
-| [FN-Call Dataset](https://huggingface.co/datasets/AgoraX/OpenImage-FNCall-50k) | HuggingFace|
 | [SOP Library](https://github.com/peytontolbert/SOPLibrary) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/SOPLibrary?style=flat-square&labelColor=black"/>
 | [State Spaces 101](https://github.com/peytontolbert/statespace_101) |  <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/statespace_101?style=flat-square&labelColor=black"/>
 | [AgentSelector](https://github.com/peytontolbert/AgentSelector) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/AgentSelector?style=flat-square&labelColor=black"/>
 | [ECMS](https://github.com/peytontolbert/ECMSv2) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/ECMSv2?style=flat-square&labelColor=black"/>
+| [FN-Call Finetuned Model](https://huggingface.co/AgoraX/Lumixion-e1-70k-fncall-qlora) | HuggingFace|
+| [FN-Call Dataset](https://huggingface.co/datasets/AgoraX/OpenImage-FNCall-50k) | HuggingFace|
 </td></tr> </table>
 
 <details>
