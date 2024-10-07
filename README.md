@@ -51,7 +51,7 @@
 </td></tr> </table>
 
 <table>
-<tr><th>Bots </th><th>Misc Projects </th></tr>
+<tr><th>Agents </th><th>Misc Projects </th></tr>
 <tr><td>
 
 |Title | Stars |
@@ -59,7 +59,7 @@
 | [Continous Learning Assistant](https://github.com/peytontolbert/continuous-learning-assistant) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/continuous-learning-assistant?style=flat-square&labelColor=black"/>|
 | [LLM-Coder](https://github.com/peytontolbert/llm-coder) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/llm-coder?style=flat-square&labelColor=black"/>|
 | [Nimbus](https://github.com/peytontolbert/Nimbus) |  <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/Nimbus?style=flat-square&labelColor=black"/>|
-| [Graph-Based Code Bot](https://github.com/peytontolbert/GCBMS) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/GCBMS?style=flat-square&labelColor=black"/>|
+| [Graph-Based Code Agent](https://github.com/peytontolbert/GCBMS) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/GCBMS?style=flat-square&labelColor=black"/>|
 | [GPT Dev](https://github.com/peytontolbert/GPTDev) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/GPTDev?style=flat-square&labelColor=black"/>|
 | [Dynamic Agent](https://github.com/peytontolbert/DynamicAgent) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/GCBMS?style=flat-square&labelColor=black"/>|
 | [LLM AgentZero Prototype](https://github.com/peytontolbert/LLMAgentSystem) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/LLMAgentSystem?style=flat-square&labelColor=black"/>|
