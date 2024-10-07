@@ -57,12 +57,12 @@
 |Title | Stars |
 |--|--|
 | [Continous Learning Assistant](https://github.com/peytontolbert/continuous-learning-assistant) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/continuous-learning-assistant?style=flat-square&labelColor=black"/>|
-| [Graph-Based Code Bot](https://github.com/peytontolbert/GCBMS) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/GCBMS?style=flat-square&labelColor=black"/>|
 | [LLM-Coder](https://github.com/peytontolbert/llm-coder) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/llm-coder?style=flat-square&labelColor=black"/>|
+| [Nimbus](https://github.com/peytontolbert/Nimbus) |  <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/Nimbus?style=flat-square&labelColor=black"/>|
+| [Graph-Based Code Bot](https://github.com/peytontolbert/GCBMS) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/GCBMS?style=flat-square&labelColor=black"/>|
 | [GPT Dev](https://github.com/peytontolbert/GPTDev) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/GPTDev?style=flat-square&labelColor=black"/>|
 | [Dynamic Agent](https://github.com/peytontolbert/DynamicAgent) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/GCBMS?style=flat-square&labelColor=black"/>|
 | [LLM AgentZero Prototype](https://github.com/peytontolbert/LLMAgentSystem) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/LLMAgentSystem?style=flat-square&labelColor=black"/>|
-| [Nimbus](https://github.com/peytontolbert/Nimbus) |  <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/Nimbus?style=flat-square&labelColor=black"/>|
 | [Autonomous Society](https://github.com/peytontolbert/AutonomousDigitalSociety) |  <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/AutonomousDigitalSociety?style=flat-square&labelColor=black"/>|
 </td><td>
 
