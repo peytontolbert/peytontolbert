@@ -32,20 +32,20 @@
 |Title | Stars |
 |--|--|
 | [Griffin](https://github.com/peytontolbert/Griffin) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/Griffin?style=flat-square&labelColor=black"/>|
-| [ConfidenceTransformer](https://github.com/peytontolbert/ConfidenceTransformer) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/ConfidenceTransformer?style=flat-square&labelColor=black"/>|
-| [SingleArchitectureEnsemble](https://github.com/peytontolbert/SingleArchitectureEnsemble) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/SingleArchitectureEnsemble?style=flat-square&labelColor=black"/>|
-| [OpenStrawberrySWE](https://github.com/peytontolbert/OpenStrawberry) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/OpenStrawberry?style=flat-square&labelColor=black"/>|
-| [YOLOv5DeepQLearningModel](https://github.com/peytontolbert/yolov5DeepQLearning) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/yolov5DeepQLearning?style=flat-square&labelColor=black"/>|
-| [SimpleVIT](https://github.com/peytontolbert/simpleViT) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/simpleViT?style=flat-square&labelColor=black"/>|
-| [SimpleCLIP](https://github.com/peytontolbert/simple-CLIP) |  <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/simple-CLIP?style=flat-square&labelColor=black"/>|
-| [TinyMoE](https://github.com/peytontolbert/tinylm) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/TinyLM?style=flat-square&labelColor=black"/>|
-| [ConversationalTransformer](https://github.com/peytontolbert/ConversationalTransformer) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/ConversationalTransformer?style=flat-square&labelColor=black"/>|
+| [Confidence Transformer](https://github.com/peytontolbert/ConfidenceTransformer) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/ConfidenceTransformer?style=flat-square&labelColor=black"/>|
+| [Single Architecture Ensemble](https://github.com/peytontolbert/SingleArchitectureEnsemble) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/SingleArchitectureEnsemble?style=flat-square&labelColor=black"/>|
+| [Open Strawberry SWE](https://github.com/peytontolbert/OpenStrawberry) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/OpenStrawberry?style=flat-square&labelColor=black"/>|
+| [YOLOv5 DeepQ Learning Model](https://github.com/peytontolbert/yolov5DeepQLearning) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/yolov5DeepQLearning?style=flat-square&labelColor=black"/>|
+| [Simple VIT](https://github.com/peytontolbert/simpleViT) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/simpleViT?style=flat-square&labelColor=black"/>|
+| [Simple CLIP](https://github.com/peytontolbert/simple-CLIP) |  <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/simple-CLIP?style=flat-square&labelColor=black"/>|
+| [Tiny MoE](https://github.com/peytontolbert/tinylm) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/TinyLM?style=flat-square&labelColor=black"/>|
+| [Conversational Transformer](https://github.com/peytontolbert/ConversationalTransformer) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/ConversationalTransformer?style=flat-square&labelColor=black"/>|
 </td><td>
 
 |Title | Stars |
 |--|--|
-| [SuperAlignment](https://github.com/peytontolbert/SuperAlignment) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/SuperAlignment?style=flat-square&labelColor=black"/>|
-| [SinglePassTraining](https://github.com/peytontolbert/SinglePassTransformer) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/SinglePassTransformer?style=flat-square&labelColor=black"/>|
+| [Super Alignment](https://github.com/peytontolbert/SuperAlignment) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/SuperAlignment?style=flat-square&labelColor=black"/>|
+| [Single Pass Training](https://github.com/peytontolbert/SinglePassTransformer) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/SinglePassTransformer?style=flat-square&labelColor=black"/>|
 | [Drone Swarm Training](https://github.com/peytontolbert/swarm-drone-hrtx) |  <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/swarm-drone-hrtx?style=flat-square&labelColor=black"/>|
 
 </td></tr> </table>
@@ -72,7 +72,7 @@
 | [Weights Transfer](https://github.com/peytontolbert/TransformerWeightsTransfer) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/TransformerWeightsTransfer?style=flat-square&labelColor=black"/>
 | [SOP Library](https://github.com/peytontolbert/SOPLibrary) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/SOPLibrary?style=flat-square&labelColor=black"/>
 | [State Spaces 101](https://github.com/peytontolbert/statespace_101) |  <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/statespace_101?style=flat-square&labelColor=black"/>
-| [AgentSelector](https://github.com/peytontolbert/AgentSelector) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/AgentSelector?style=flat-square&labelColor=black"/>
+| [Agent Selector](https://github.com/peytontolbert/AgentSelector) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/AgentSelector?style=flat-square&labelColor=black"/>
 | [ECMS](https://github.com/peytontolbert/ECMSv2) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/ECMSv2?style=flat-square&labelColor=black"/>
 | [FN-Call Finetuned Model](https://huggingface.co/AgoraX/Lumixion-e1-70k-fncall-qlora) | HuggingFace|
 | [FN-Call Dataset](https://huggingface.co/datasets/AgoraX/OpenImage-FNCall-50k) | HuggingFace|
