@@ -3,6 +3,8 @@
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Peyton+Tolbert;Researcher+%7C+Software+Engineer;LLM+%7C+Agents" alt="Typing SVG" />
 </a>
 
+<br/>
+<br/>
 
 <a href="https://peytontolbert.com">
     <img src="https://img.shields.io/badge/Website-peytontolbert.com-red?style=flat-square">
