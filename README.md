@@ -47,8 +47,9 @@
 |Title | Stars |
 |--|--|
 | [Super Alignment](https://github.com/peytontolbert/SuperAlignment) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/SuperAlignment?style=flat-square&labelColor=black"/>|
-| [Single Pass Training](https://github.com/peytontolbert/SinglePassTransformer) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/SinglePassTransformer?style=flat-square&labelColor=black"/>|
 | [Drone Swarm Training](https://github.com/peytontolbert/swarm-drone-hrtx) |  <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/swarm-drone-hrtx?style=flat-square&labelColor=black"/>|
+| [Speech2Speech teacher-student](https://github.com/peytontolbert/T5-SpeechtoSpeech) |  <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/T5-SpeechtoSpeech?style=flat-square&labelColor=black"/>|
+| [Single Pass Training](https://github.com/peytontolbert/SinglePassTransformer) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/SinglePassTransformer?style=flat-square&labelColor=black"/>|
 
 </td></tr> </table>
 
