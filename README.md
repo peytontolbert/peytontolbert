@@ -37,6 +37,7 @@
 | [Confidence Transformer](https://github.com/peytontolbert/ConfidenceTransformer) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/ConfidenceTransformer?style=flat-square&labelColor=black"/>|
 | [Single Architecture Ensemble](https://github.com/peytontolbert/SingleArchitectureEnsemble) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/SingleArchitectureEnsemble?style=flat-square&labelColor=black"/>|
 | [Open Strawberry SWE](https://github.com/peytontolbert/OpenStrawberry) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/OpenStrawberry?style=flat-square&labelColor=black"/>|
+| [F5 TTS](https://github.com/peytontolbert/f5-tts) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/f5-tts?style=flat-square&labelColor=black"/>|
 | [YOLOv5 DeepQ Learning Model](https://github.com/peytontolbert/yolov5DeepQLearning) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/yolov5DeepQLearning?style=flat-square&labelColor=black"/>|
 | [Simple VIT](https://github.com/peytontolbert/simpleViT) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/simpleViT?style=flat-square&labelColor=black"/>|
 | [Simple CLIP](https://github.com/peytontolbert/simple-CLIP) |  <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/simple-CLIP?style=flat-square&labelColor=black"/>|
@@ -60,6 +61,7 @@
 |Title | Stars |
 |--|--|
 | [Continous Learning Assistant](https://github.com/peytontolbert/continuous-learning-assistant) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/continuous-learning-assistant?style=flat-square&labelColor=black"/>|
+| [Discord Assistant](https://github.com/peytontolbert/discord-assistant-cms) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/discord-assistant-cms?style=flat-square&labelColor=black"/>|
 | [Bob](https://github.com/peytontolbert/bob-agi) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/bob-agi?style=flat-square&labelColor=black"/>|
 | [LLM-Coder](https://github.com/peytontolbert/llm-coder) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/llm-coder?style=flat-square&labelColor=black"/>|
 | [Nimbus](https://github.com/peytontolbert/Nimbus) |  <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/Nimbus?style=flat-square&labelColor=black"/>|
