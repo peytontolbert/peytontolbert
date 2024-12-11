@@ -6,7 +6,6 @@
 <br/>
 <br/>
 
-
 <a href="https://peytontolbert.com">
     <img src="https://img.shields.io/badge/Website-peytontolbert.com-red?style=flat-square">
 </a>  
@@ -89,6 +88,10 @@
 </td></tr> </table>
 
 <details>
+[Createnow.xyz](https://createnow.xyz)
+[Swarms World](https://swarms.world)
+[FN-Call Dataset](https://huggingface.co/datasets/AgoraX/OpenImage-FNCall-50k)
+[FN-Call Finetuned Model](https://huggingface.co/AgoraX/Lumixion-e1-70k-fncall-qlora)
 
 
 
