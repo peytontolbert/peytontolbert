@@ -77,6 +77,7 @@
 | [Weights Transfer](https://github.com/peytontolbert/TransformerWeightsTransfer) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/TransformerWeightsTransfer?style=flat-square&labelColor=black"/>
 | [MusicGen-FastAPI](https://github.com/peytontolbert/musicgen-fastapi) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/musicgen-fastapi?style=flat-square&labelColor=black"/>
 | [Text-Sims-LLM](https://github.com/peytontolbert/text-sims-llm) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/text-sims-llm?style=flat-square&labelColor=black"/>
+| [LLAMA-F5-Adapter](https://github.com/peytontolbert/llama-f5-adapter) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/llama-f5-adapter?style=flat-square&labelColor=black"/>
 | [AI Spaces](https://github.com/peytontolbert/ai-space-calls) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/ai-space-calls?style=flat-square&labelColor=black"/>
 | [SOP Library](https://github.com/peytontolbert/SOPLibrary) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/SOPLibrary?style=flat-square&labelColor=black"/>
 | [State Spaces 101](https://github.com/peytontolbert/statespace_101) |  <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/statespace_101?style=flat-square&labelColor=black"/>
