@@ -85,7 +85,7 @@
 | [ECMS](https://github.com/peytontolbert/ECMSv2) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/ECMSv2?style=flat-square&labelColor=black"/>
 | [FN-Call Finetuned Model](https://huggingface.co/AgoraX/Lumixion-e1-70k-fncall-qlora) | HuggingFace|
 | [FN-Call Dataset](https://huggingface.co/datasets/AgoraX/OpenImage-FNCall-50k) | HuggingFace|
-| [Createnow.xyz](https://createnow.xyz) | CreateNow |
+| [createnow.xyz](https://createnow.xyz) | createnow |
 </td></tr> </table>
 
 <details>
