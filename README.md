@@ -14,7 +14,6 @@
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
 </a>  
 
-
 <a href="https://www.linkedin.com/in/peyton-tolbert-5a1459159">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
