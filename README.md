@@ -79,6 +79,7 @@
 | [LLAMA-F5-Adapter](https://github.com/peytontolbert/llama-f5-adapter) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/llama-f5-adapter?style=flat-square&labelColor=black"/>
 | [AI Spaces](https://github.com/peytontolbert/ai-space-calls) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/ai-space-calls?style=flat-square&labelColor=black"/>
 | [SOP Library](https://github.com/peytontolbert/SOPLibrary) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/SOPLibrary?style=flat-square&labelColor=black"/>
+| [Swarms Cloud Agents](https://github.com/peytontolbert/swarms-cloud-agents) | <img alt="Stars" src="https://github.com/peytontolbert/swarms-cloud-agents?style=flat-square&labelColor=black"/>
 | [State Spaces 101](https://github.com/peytontolbert/statespace_101) |  <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/statespace_101?style=flat-square&labelColor=black"/>
 | [Agent Selector](https://github.com/peytontolbert/AgentSelector) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/AgentSelector?style=flat-square&labelColor=black"/>
 | [FN-Call Finetuned Model](https://huggingface.co/AgoraX/Lumixion-e1-70k-fncall-qlora) | HuggingFace|
