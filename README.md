@@ -41,6 +41,7 @@
 | [Simple CLIP](https://github.com/peytontolbert/simple-CLIP) |  <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/simple-CLIP?style=flat-square&labelColor=black"/>|
 | [Tiny MoE](https://github.com/peytontolbert/tinylm) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/TinyLM?style=flat-square&labelColor=black"/>|
 | [Conversational Transformer](https://github.com/peytontolbert/ConversationalTransformer) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/ConversationalTransformer?style=flat-square&labelColor=black"/>|
+| [T5 SpeechtoSpeech](https://github.com/peytontolbert/T5-SpeechtoSpeech) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/T5-SpeechtoSpeech?style=flat-square&labelColor=black"/>|
 </td><td>
 
 |Title | Stars |
