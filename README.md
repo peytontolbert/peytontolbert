@@ -52,6 +52,7 @@
 | [Speech2Speech teacher-student](https://github.com/peytontolbert/T5-SpeechtoSpeech) |  <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/T5-SpeechtoSpeech?style=flat-square&labelColor=black"/>|
 | [Single Pass Training](https://github.com/peytontolbert/SinglePassTransformer) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/SinglePassTransformer?style=flat-square&labelColor=black"/>|
 | [Action Transformer Environment](https://github.com/peytontolbert/action-transformer-environment) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/action-transformer-environment?style=flat-square&labelColor=black"/>|
+| [Stable Diffusion Trainer](https://github.com/peytontolbert/stable-diffusion-trainer) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/stable-diffusion-trainer?style=flat-square&labelColor=black"/>|
 
 </td></tr> </table>
 
