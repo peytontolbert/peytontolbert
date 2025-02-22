@@ -51,7 +51,7 @@
 | [Drone Swarm Training](https://github.com/peytontolbert/swarm-drone-hrtx) |  <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/swarm-drone-hrtx?style=flat-square&labelColor=black"/>|
 | [Speech2Speech teacher-student](https://github.com/peytontolbert/T5-SpeechtoSpeech) |  <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/T5-SpeechtoSpeech?style=flat-square&labelColor=black"/>|
 | [Single Pass Training](https://github.com/peytontolbert/SinglePassTransformer) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/SinglePassTransformer?style=flat-square&labelColor=black"/>|
-| [Single Pass Training](https://github.com/peytontolbert/action-transformer-environment) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/action-transformer-environment?style=flat-square&labelColor=black"/>|
+| [Action Transformer Environment](https://github.com/peytontolbert/action-transformer-environment) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/action-transformer-environment?style=flat-square&labelColor=black"/>|
 
 </td></tr> </table>
 
