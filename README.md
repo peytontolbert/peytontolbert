@@ -42,6 +42,7 @@
 | [Tiny MoE](https://github.com/peytontolbert/tinylm) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/TinyLM?style=flat-square&labelColor=black"/>|
 | [Conversational Transformer](https://github.com/peytontolbert/ConversationalTransformer) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/ConversationalTransformer?style=flat-square&labelColor=black"/>|
 | [Action Transformer](https://github.com/peytontolbert/action-transformer) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/action-transformer?style=flat-square&labelColor=black"/>|
+| [LLM Memory Modules](https://github.com/peytontolbert/llm_memory_modules_at_scale) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/llm_memory_modules_at_scale?style=flat-square&labelColor=black"/>|
 | [T5 SpeechtoSpeech](https://github.com/peytontolbert/T5-SpeechtoSpeech) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/T5-SpeechtoSpeech?style=flat-square&labelColor=black"/>|
 </td><td>
 
