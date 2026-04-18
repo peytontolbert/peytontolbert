@@ -36,7 +36,7 @@
 | [Griffin](https://github.com/peytontolbert/Griffin) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/Griffin?style=flat-square&labelColor=black"/>|
 | [Confidence Transformer](https://github.com/peytontolbert/ConfidenceTransformer) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/ConfidenceTransformer?style=flat-square&labelColor=black"/>|
 | [Single Architecture Ensemble](https://github.com/peytontolbert/SingleArchitectureEnsemble) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/SingleArchitectureEnsemble?style=flat-square&labelColor=black"/>|
-| [Open Strawberry SWE](https://github.com/peytontolbert/OpenStrawberry) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/OpenStrawberry?style=flat-square&labelColor=black"/>|
+| [TOLBERT](https://github.com/peytontolbert/TOLBERT) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/TOLBERT?style=flat-square&labelColor=black"/>|
 | [F5 TTS](https://github.com/peytontolbert/f5-tts) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/f5-tts?style=flat-square&labelColor=black"/>|
 | [YOLOv5 DeepQ Learning Model](https://github.com/peytontolbert/yolov5DeepQLearning) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/yolov5DeepQLearning?style=flat-square&labelColor=black"/>|
 | [Simple VIT](https://github.com/peytontolbert/simpleViT) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/simpleViT?style=flat-square&labelColor=black"/>|
@@ -65,7 +65,7 @@
 
 |Title | Stars |
 |--|--|
-| [Swarms Cloud Agents](https://github.com/peytontolbert/swarms-cloud-agents) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/swarms-cloud-agents?style=flat-square&labelColor=black"/>
+| [Minimal Agent Kernel](https://github.com/peytontolbert/minimal-agent-kernel) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/minimal-agent-kernel?style=flat-square&labelColor=black"/>
 | [Continous Learning Assistant](https://github.com/peytontolbert/continuous-learning-assistant) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/continuous-learning-assistant?style=flat-square&labelColor=black"/>|
 | [Discord Assistant](https://github.com/peytontolbert/discord-assistant-cms) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/discord-assistant-cms?style=flat-square&labelColor=black"/>|
 | [Tiny Self Improve](tiny-self-improve-ai) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/tiny-self-improve-ai?style=flat-square&labelColor=black"/>|
@@ -81,7 +81,7 @@
 
 |Title | Stars |
 |--|--|
-| [Swarms Cloud](https://github.com/The-Swarm-Corporation/swarms-cloud) | <img alt="Stars" src="https://img.shields.io/github/stars/The-Swarm-Corporation/swarms-cloud?style=flat-square&labelColor=black"/>
+| [Model Stack](https://github.com/peytontolbert/model-stack) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/model-stack?style=flat-square&labelColor=black"/>
 | [Weights Transfer](https://github.com/peytontolbert/TransformerWeightsTransfer) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/TransformerWeightsTransfer?style=flat-square&labelColor=black"/>
 | [Text-Sims-LLM](https://github.com/peytontolbert/text-sims-llm) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/text-sims-llm?style=flat-square&labelColor=black"/>
 | [LLAMA-F5-Adapter](https://github.com/peytontolbert/llama-f5-adapter) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/llama-f5-adapter?style=flat-square&labelColor=black"/>
