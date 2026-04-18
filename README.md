@@ -66,6 +66,7 @@
 |Title | Stars |
 |--|--|
 | [Minimal Agent Kernel](https://github.com/peytontolbert/minimal-agent-kernel) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/minimal-agent-kernel?style=flat-square&labelColor=black"/>
+| [Agent Kernel](https://github.com/peytontolbert/agent_kernel) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/agent_kernel?style=flat-square&labelColor=black"/>
 | [Continous Learning Assistant](https://github.com/peytontolbert/continuous-learning-assistant) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/continuous-learning-assistant?style=flat-square&labelColor=black"/>|
 | [Discord Assistant](https://github.com/peytontolbert/discord-assistant-cms) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/discord-assistant-cms?style=flat-square&labelColor=black"/>|
 | [Tiny Self Improve](tiny-self-improve-ai) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/tiny-self-improve-ai?style=flat-square&labelColor=black"/>|
@@ -82,6 +83,7 @@
 |Title | Stars |
 |--|--|
 | [Model Stack](https://github.com/peytontolbert/model-stack) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/model-stack?style=flat-square&labelColor=black"/>
+| [Research Library](https://github.com/peytontolbert/Research_Library) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/Research_Library?style=flat-square&labelColor=black"/>
 | [Weights Transfer](https://github.com/peytontolbert/TransformerWeightsTransfer) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/TransformerWeightsTransfer?style=flat-square&labelColor=black"/>
 | [Text-Sims-LLM](https://github.com/peytontolbert/text-sims-llm) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/text-sims-llm?style=flat-square&labelColor=black"/>
 | [LLAMA-F5-Adapter](https://github.com/peytontolbert/llama-f5-adapter) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/llama-f5-adapter?style=flat-square&labelColor=black"/>
