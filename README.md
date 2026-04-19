@@ -52,11 +52,10 @@
 |--|--|
 | [Super Alignment](https://github.com/peytontolbert/SuperAlignment) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/SuperAlignment?style=flat-square&labelColor=black"/>|
 | [Drone Swarm Training](https://github.com/peytontolbert/swarm-drone-hrtx) |  <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/swarm-drone-hrtx?style=flat-square&labelColor=black"/>|
-| [Speech2Speech teacher-student](https://github.com/peytontolbert/T5-SpeechtoSpeech) |  <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/T5-SpeechtoSpeech?style=flat-square&labelColor=black"/>|
-| [Single Pass Training](https://github.com/peytontolbert/SinglePassTransformer) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/SinglePassTransformer?style=flat-square&labelColor=black"/>|
+| [Selfplay Arena](https://github.com/peytontolbert/selfplay-arena) |  <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/selfplay-arena?style=flat-square&labelColor=black"/>|
+| [Distill Kit](https://github.com/peytontolbert/distill-kit) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/distill-kit?style=flat-square&labelColor=black"/>|
 | [Action Transformer Environment](https://github.com/peytontolbert/action-transformer-environment) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/action-transformer-environment?style=flat-square&labelColor=black"/>|
 | [Stable Diffusion Trainer](https://github.com/peytontolbert/stable-diffusion-trainer) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/stable-diffusion-trainer?style=flat-square&labelColor=black"/>|
-
 </td></tr> </table>
 
 <table>
@@ -89,6 +88,7 @@
 | [LLAMA-F5-Adapter](https://github.com/peytontolbert/llama-f5-adapter) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/llama-f5-adapter?style=flat-square&labelColor=black"/>
 | [Musicgen FastAPI](https://github.com/peytontolbert/musicgen-fastapi) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/musicgen-fastapi?style=flat-square&labelColor=black"/>
 | [AI Spaces](https://github.com/peytontolbert/ai-space-calls) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/ai-space-calls?style=flat-square&labelColor=black"/>
+| [WebGL Tools](https://github.com/peytontolbert/WebGL_Tools) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/WebGL_Tools?style=flat-square&labelColor=black"/>
 | [SOP Library](https://github.com/peytontolbert/SOPLibrary) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/SOPLibrary?style=flat-square&labelColor=black"/>
 | [State Spaces 101](https://github.com/peytontolbert/statespace_101) |  <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/statespace_101?style=flat-square&labelColor=black"/>
 | [Agent Selector](https://github.com/peytontolbert/AgentSelector) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/AgentSelector?style=flat-square&labelColor=black"/>
