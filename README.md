@@ -94,13 +94,10 @@
 | [Agent Selector](https://github.com/peytontolbert/AgentSelector) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/AgentSelector?style=flat-square&labelColor=black"/>
 | [FN-Call Finetuned Model](https://huggingface.co/AgoraX/Lumixion-e1-70k-fncall-qlora) | HuggingFace|
 | [FN-Call Dataset](https://huggingface.co/datasets/AgoraX/OpenImage-FNCall-50k) | HuggingFace|
-| [createnow.xyz](https://createnow.xyz) | createnow |
 </td></tr> </table>
 
 <details>
-https://createnow.xyz
-<br/>
-https://swarms.world
+https://huggingface.co/PeytonT
 <br/>
 https://huggingface.co/datasets/AgoraX/OpenImage-FNCall-50k
 <br/>
