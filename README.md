@@ -41,6 +41,8 @@
 | [YOLOv5 DeepQ Learning Model](https://github.com/peytontolbert/yolov5DeepQLearning) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/yolov5DeepQLearning?style=flat-square&labelColor=black"/>|
 | [Simple VIT](https://github.com/peytontolbert/simpleViT) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/simpleViT?style=flat-square&labelColor=black"/>|
 | [Simple CLIP](https://github.com/peytontolbert/simple-CLIP) |  <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/simple-CLIP?style=flat-square&labelColor=black"/>|
+| [Simple MoE](https://github.com/peytontolbert/simple-moe) |  <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/simple-moe?style=flat-square&labelColor=black"/>|
+| [Simple Transformer](https://github.com/peytontolbert/simple_transformer) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/simple_transformer?style=flat-square&labelColor=black"/>|
 | [Tiny MoE](https://github.com/peytontolbert/tinylm) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/TinyLM?style=flat-square&labelColor=black"/>|
 | [Conversational Transformer](https://github.com/peytontolbert/ConversationalTransformer) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/ConversationalTransformer?style=flat-square&labelColor=black"/>|
 | [Action Transformer](https://github.com/peytontolbert/action-transformer) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/action-transformer?style=flat-square&labelColor=black"/>|
