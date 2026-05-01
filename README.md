@@ -58,6 +58,7 @@
 | [Distill Kit](https://github.com/peytontolbert/distill-kit) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/distill-kit?style=flat-square&labelColor=black"/>|
 | [Action Transformer Environment](https://github.com/peytontolbert/action-transformer-environment) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/action-transformer-environment?style=flat-square&labelColor=black"/>|
 | [Stable Diffusion Trainer](https://github.com/peytontolbert/stable-diffusion-trainer) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/stable-diffusion-trainer?style=flat-square&labelColor=black"/>|
+| [Parameter Golf](https://github.com/peytontolbert/parameter-golf) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/parameter-golf?style=flat-square&labelColor=black"/>|
 </td></tr> </table>
 
 <table>
