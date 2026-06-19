@@ -71,7 +71,7 @@
 | [Agent Kernel](https://github.com/peytontolbert/agent_kernel) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/agent_kernel?style=flat-square&labelColor=black"/>
 | [Continous Learning Assistant](https://github.com/peytontolbert/continuous-learning-assistant) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/continuous-learning-assistant?style=flat-square&labelColor=black"/>|
 | [Discord Assistant](https://github.com/peytontolbert/discord-assistant-cms) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/discord-assistant-cms?style=flat-square&labelColor=black"/>|
-| [Tiny Self Improve](tiny-self-improve-ai) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/tiny-self-improve-ai?style=flat-square&labelColor=black"/>|
+| [Tiny Self Improve](https://github.com/peytontolbert/tiny-self-improve-ai) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/tiny-self-improve-ai?style=flat-square&labelColor=black"/>|
 | [Bob in a 3d room](https://github.com/peytontolbert/bob-in-a-3d-room) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/bob-in-a-3d-room?style=flat-square&labelColor=black"/>|
 | [LLM-Coder](https://github.com/peytontolbert/llm-coder) | <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/llm-coder?style=flat-square&labelColor=black"/>|
 | [Nimbus](https://github.com/peytontolbert/Nimbus) |  <img alt="Stars" src="https://img.shields.io/github/stars/peytontolbert/Nimbus?style=flat-square&labelColor=black"/>|
